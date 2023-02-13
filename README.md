@@ -33,3 +33,10 @@ python3 -m pip install -e .
 - Models are loaded automatically based on the config variables
 - Run main.predict()
 - Interact with the chatbot as you wish!
+
+
+#About data folder
+-Training according to this should locally create a Data folder
+-Data Folder will contain checkpoints for the trained model
+-Once trained, can predict
+- data folder too large to commit 
